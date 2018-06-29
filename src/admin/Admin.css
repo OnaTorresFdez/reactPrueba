@@ -1,0 +1,22 @@
+.formulario {
+    padding-left: 10px;
+    padding-right: 5px;
+    display: inline-block;
+    padding: 10px;
+}
+
+label {
+    padding: 20px;
+}
+
+a {
+    padding: 7px;
+}
+
+.divSubmit {
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 350px;
+    padding-top: 10px;
+
+}

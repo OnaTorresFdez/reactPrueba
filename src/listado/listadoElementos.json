@@ -1,0 +1,74 @@
+[
+    { 
+        "idArticulo" : "1", 
+        "articulo" : "iMac", 
+        "title" : "iMac", 
+        "detalle" : "Mac todo chulo", 
+        "pic" : "mac1.jpg",
+        "precioAntiguio" : "1699€",
+        "precio" : "1399€"
+    },
+    { 
+        "idArticulo" : "2", 
+        "articulo" : "Mac", 
+        "title" : "Mac", 
+        "detalle" : "Mac todo chulo portatil", 
+        "pic" :"mac2.jpg",
+        "precioAntiguio" : "1799€",
+        "precio":"1599€"
+    },
+    { 
+        "idArticulo" : "3", 
+        "articulo" : "Cesta de Fruta", 
+        "title" : "Cesta de Fruta", 
+        "detalle" : "Cesta de Fruta muy rica y con muchas vitaminas", 
+        "pic" :"cestaFruta.jpg",
+        "precioAntiguio" : "20€",
+        "precio":"10€"
+    },
+    { 
+        "idArticulo" : "4", 
+        "articulo" : "iphone", 
+        "title" : "Iphone 7s", 
+        "detalle" : "Iphone muy chulo y grande", 
+        "pic" :"iphone.jpg",
+        "precioAntiguio" : "999€",
+        "precio":"699€"
+    },
+    { 
+        "idArticulo" : "5", 
+        "articulo" : "nokia", 
+        "title" : "Nokia", 
+        "detalle" : "Nokia todo chulo y resistente", 
+        "pic" :"nokia.jpg",
+        "precioAntiguio" : "199€",
+        "precio":"99€"
+    },
+    { 
+        "idArticulo" : "6", 
+        "articulo" : "Portatil", 
+        "title" : "Portatil", 
+        "detalle" : "Portatil todo chulo", 
+        "pic" :"portatil1.jpg",
+        "precioAntiguio" : "1199€",
+        "precio":"999€"
+    },
+    { 
+        "idArticulo" : "7", 
+        "articulo" : "sobremesa", 
+        "title" : "Sobremesa", 
+        "detalle" : "sobremesa todo chulo", 
+        "pic" :"sobremesa1.jpg",
+        "precioAntiguio" : "1459€",
+        "precio":"1399€"
+    },
+    { 
+        "idArticulo" : "8", 
+        "articulo" : "sobremesa", 
+        "title" : "Sobremesa2", 
+        "detalle" : "sobremesa todo chulo", 
+        "pic" :"sobremesa2.jpg",
+        "precioAntiguio" : "1799€",
+        "precio":"1699€"
+    }
+]
